@@ -14,10 +14,10 @@ const char *password = "GGA48@6587";
 // 주의: 반드시 'raw' 주소여야 합니다. (브라우저에서 주소를 쳤을 때 파일이 바로
 // 다운로드되어야 함)
 const char *firmware_url =
-    "https://github.com/Hyohyoju/otp_update/blob/main/SignedOTA.ino.bin";
+    "https://raw.githubusercontent.com/Hyohyoju/otp_update/main/update.bin";
 
 // 3. 디버그 및 버전 정보
-#define CURRENT_FIRMWARE_VERSION 2
+#define CURRENT_FIRMWARE_VERSION 3
 
 // ==========================================
 #endif
