@@ -6,7 +6,7 @@
 // ==========================================
 
 // 1. 와이파이 설정
-const char *ssid = "SK_DA20_5G";
+const char *ssid = "SK_DA20_2.4G";
 const char *password = "GGA48@6587";
 
 // 2. 펌웨어 다운로드 주소
@@ -17,7 +17,7 @@ const char *firmware_url =
     "https://raw.githubusercontent.com/Hyohyoju/otp_update/main/update.bin";
 
 // 3. 디버그 및 버전 정보
-#define CURRENT_FIRMWARE_VERSION 3
+#define CURRENT_FIRMWARE_VERSION 4
 
 // ==========================================
 #endif
