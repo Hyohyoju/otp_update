@@ -17,7 +17,7 @@ const char *firmware_url =
     "https://raw.githubusercontent.com/Hyohyoju/otp_update/main/update.bin";
 
 // 3. 디버그 및 버전 정보
-#define CURRENT_FIRMWARE_VERSION 5
+#define CURRENT_FIRMWARE_VERSION 6
 
 // ==========================================
 #endif
